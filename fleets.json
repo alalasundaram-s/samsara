@@ -1,0 +1,17 @@
+{
+"groupId": 101,
+"vehicles": [
+{
+"id": 112,
+"name": "Truck A7",
+"latitude": 123.456,
+"longitude": 32.897,
+"location": "1 Main St, Dallas, TX",
+"vin": "JTNBB46KX73011966",
+"time": 1462881998034,
+"onTrip": true,
+"speed": 64.37,
+"heading": 246.42
+}
+]
+}
