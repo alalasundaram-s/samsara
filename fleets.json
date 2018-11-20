@@ -4,14 +4,11 @@
 {
 "id": 112,
 "name": "Truck A7",
-"latitude": 123.456,
-"longitude": 32.897,
-"location": "1 Main St, Dallas, TX",
-"vin": "JTNBB46KX73011966",
-"time": 1462881998034,
-"onTrip": true,
-"speed": 64.37,
-"heading": 246.42
+"note": "Red truck 2015 M16",
+"vin": "1FUJA6BD31LJ09646",
+"odometerMeters": 60130000,
+"engineHours": 1500,
+"fuelLevelPercent": 0.3
 }
 ]
 }
