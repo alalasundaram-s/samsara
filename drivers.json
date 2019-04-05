@@ -1,0 +1,124 @@
+{
+"drivers": [
+{
+"id": 556,
+"isDeactivated": true,
+"tags": [
+{
+"id": 12345,
+"name": "Broken Vehicles"
+}
+],
+"currentVehicleId": 879,
+"eldAdverseWeatherExemptionEnabled": true,
+"eldBigDayExemptionEnabled": true,
+"eldDayStartHour": 0,
+"eldExempt": true,
+"eldExemptReason": "string",
+"eldPcEnabled": false,
+"eldYmEnabled": false,
+"externalIds": {
+"maintenanceId": "250020",
+"payrollId": "123"
+},
+"groupId": 101,
+"licenseNumber": "E1234567",
+"licenseState": "CA",
+"name": "Susan Jones",
+"notes": "Also goes by the nickname 'Furious Fred'.",
+"phone": "5558234327",
+"username": "Susan Jones",
+"vehicleId": 444
+},
+{
+"id": 557,
+"isDeactivated": true,
+"tags": [
+{
+"id": 12346,
+"name": "Broken Vehicles"
+}
+],
+"currentVehicleId": 880,
+"eldAdverseWeatherExemptionEnabled": true,
+"eldBigDayExemptionEnabled": true,
+"eldDayStartHour": 0,
+"eldExempt": true,
+"eldExemptReason": "string",
+"eldPcEnabled": false,
+"eldYmEnabled": false,
+"externalIds": {
+"maintenanceId": "250020",
+"payrollId": "124"
+},
+"groupId": 111,
+"licenseNumber": "X1234568",
+"licenseState": "CA",
+"name": "Thomas George",
+"notes": "Also goes by the nickname 'George Thomas'.",
+"phone": "6668234327",
+"username": "Thomas George",
+"vehicleId": 445
+},
+{
+"id": 558,
+"isDeactivated": true,
+"tags": [
+{
+"id": 12347,
+"name": "Broken Vehicles"
+}
+],
+"currentVehicleId": 881,
+"eldAdverseWeatherExemptionEnabled": true,
+"eldBigDayExemptionEnabled": true,
+"eldDayStartHour": 0,
+"eldExempt": true,
+"eldExemptReason": "string",
+"eldPcEnabled": false,
+"eldYmEnabled": false,
+"externalIds": {
+"maintenanceId": "250020",
+"payrollId": "125"
+},
+"groupId": 111,
+"licenseNumber": "Y1238827",
+"licenseState": "CA",
+"name": "Fernando Yali",
+"notes": "Also goes by the nickname 'Yali'.",
+"phone": "7778234329",
+"username": "Fernando Yali",
+"vehicleId": 446
+},
+{
+"id": 559,
+"isDeactivated": true,
+"tags": [
+{
+"id": 12345,
+"name": "Broken Vehicles"
+}
+],
+"currentVehicleId": 882,
+"eldAdverseWeatherExemptionEnabled": true,
+"eldBigDayExemptionEnabled": true,
+"eldDayStartHour": 0,
+"eldExempt": true,
+"eldExemptReason": "string",
+"eldPcEnabled": false,
+"eldYmEnabled": false,
+"externalIds": {
+"maintenanceId": "250020",
+"payrollId": "126"
+},
+"groupId": 101,
+"licenseNumber": "L1234897",
+"licenseState": "CA",
+"name": "Puli mood cera",
+"notes": "Also goes by the nickname 'Mood cera'.",
+"phone": "99028234327",
+"username": "Puli mood cera",
+"vehicleId": 447
+}
+]
+}
